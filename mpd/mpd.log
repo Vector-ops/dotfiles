@@ -1,0 +1,457 @@
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+Jul 28 08:12 : player: played "af1.mp3"
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 154964.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jul 28 08:15 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 28 08:15 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jul 28 08:15 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+Jul 28 08:20 : player: played "Mtg Girl a 2.0.mp3"
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+Jul 28 16:39 : player: played "Wait a Minute!.mp3"
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+Jul 28 16:41 : player: played "I Play the Drums of Liberation! One Piece - MCD Music.mp3"
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+Jul 28 16:43 : player: played "fukumean.mp3"
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 154964.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jul 28 16:48 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 28 16:48 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jul 28 16:48 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Jul 28 16:48 : update: updating /GTA IV - Soviet Connection [slowed + reverb] - Ouranos かみ.mp3
+Jul 28 16:50 : player: played "Beautiful Things.mp3"
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+Jul 28 16:51 : update: updating /Diet Mountain Dew - Lana Del Rey.mp3
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 154964.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jul 28 16:51 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 28 16:51 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jul 28 16:51 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Jul 28 16:52 : player: played "Young Girl A.mp3"
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+Jul 28 19:31 : player: played "Lost Soul.mp3"
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+Jul 28 22:34 : player: played "One Of The Girls (with JENNIE, Lily Rose Depp).mp3"
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+Jul 28 22:42 : player: played "Young Girl A.mp3"
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 154964.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jul 30 10:26 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 30 10:26 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jul 30 10:26 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Jul 30 10:26 : update: added /Not Like Us.mp3
+*** pw_stream_update_properties called from wrong context, check thread and locking: Device or resource busy
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Device or resource busy
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+Jul 30 10:37 : player: played "Gimme More.mp3"
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+Jul 30 10:42 : player: played "Death Is No More.mp3"
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+Jul 30 10:48 : player: played "Wicked.mp3"
+*** pw_stream_update_properties called from wrong context, check thread and locking: Device or resource busy
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+Jul 30 10:52 : player: played "Diet Mountain Dew - Lana Del Rey.mp3"
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+Jul 30 10:54 : player: played "I Play the Drums of Liberation! One Piece - MCD Music.mp3"
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+Jul 30 11:00 : player: played "GTA IV - Soviet Connection [slowed + reverb] - Ouranos かみ.mp3"
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+Jul 30 13:14 : player: played "Too Sweet.mp3"
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+Jul 30 13:21 : player: played "golden hour - Fujii Kaze Remix.mp3"
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+Jul 31 08:09 : player: played "One Of The Girls (with JENNIE, Lily Rose Depp).mp3"
+Jul 31 08:34 : player: played "One Of The Girls (with JENNIE, Lily Rose Depp).mp3"
+Jul 31 18:32 : update: added /Fairytale.mp3
+Jul 31 18:32 : update: added /World's Smallest Violin.mp3
+Jul 31 18:32 : update: added /Hikaru Nara (Shigatsu Wa Kimi No Uso) [feat. Animelmack].mp3
+Jul 31 18:32 : update: added /we can't be friends (wait for your love).mp3
+Jul 31 18:32 : update: added /Corrupted.mp3
+Jul 31 18:32 : update: added /White Angels.mp3
+Jul 31 18:32 : update: added /Happy Place.mp3
+Jul 31 18:32 : update: added /Me And My Broken Heart.mp3
+Jul 31 18:32 : update: added /Rolling in the Deep.mp3
+Jul 31 18:32 : update: added /Broken Angel (feat. Helena).mp3
+Jul 31 18:32 : update: added /Wake Me Up.mp3
+Jul 31 18:32 : update: added /Mockingbird.mp3
+Jul 31 18:32 : update: added /Kamado Tanjirou no Uta - Orchestral Version (from "Demon Slayer").mp3
+Jul 31 18:32 : update: added /Counting Stars.mp3
+Jul 31 18:32 : update: added /Tourner Dans Le Vide.mp3
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 154964.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jul 31 18:32 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 31 18:32 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jul 31 18:32 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Jul 31 18:32 : update: added /LEO.mp3
+Jul 31 18:32 : update: added /Palm Deeds.mp3
+Jul 31 18:32 : update: added /Homage.mp3
+Jul 31 18:32 : update: added /Kaibutsu (From "BEASTARS Season 2").mp3
+Jul 31 18:32 : update: added /Happy Nation.mp3
+Jul 31 18:32 : update: added /One Love.mp3
+Jul 31 18:32 : update: added /This Side of Paradise.mp3
+Jul 31 18:32 : update: added /Am I Wrong.mp3
+Jul 31 18:32 : update: updating /Beautiful Things.mp3
+Jul 31 18:32 : update: added /Shower.mp3
+Jul 31 18:32 : update: added /ニッポン笑顔百景.mp3
+Jul 31 18:32 : update: added /Lost In Paradise (Jujutsu Kaisen).mp3
+Jul 31 18:32 : update: added /Eastside (with Halsey & Khalid).mp3
+Jul 31 18:32 : update: added /優しい彗星.mp3
+Jul 31 18:32 : update: added /1, 2, 3 (feat. Jason Derulo & De La Ghetto).mp3
+Jul 31 18:32 : update: updating /I Wanna Be Yours.mp3
+Jul 31 18:32 : update: added /Koko de Iki wo Shite.mp3
+Jul 31 18:32 : update: added /Beat It.mp3
+Jul 31 18:32 : update: added /Cry Baby (Tokyo Revengers).mp3
+Jul 31 18:32 : update: added /Heat Waves.mp3
+Jul 31 18:32 : update: added /Mixed Nuts.mp3
+Jul 31 18:32 : update: added /Alone, Pt. II.mp3
+Jul 31 18:32 : update: added /Kaikai Kitan.mp3
+Jul 31 18:32 : update: added /Car's Outside.mp3
+Jul 31 18:32 : update: added /Don't Hate Me When It's Over.mp3
+Jul 31 18:32 : update: added /Give Me Your Forever.mp3
+Jul 31 18:32 : update: added /memories.mp3
+Jul 31 18:32 : update: added /Smooth Operator.mp3
+Jul 31 18:32 : update: added /Only Love Can Hurt Like This.mp3
+Jul 31 18:32 : update: added /Be My Baby.mp3
+Jul 31 18:32 : update: added /Numb Little Bug.mp3
+Jul 31 18:32 : update: added /Just the Two of Us (feat. Bill Withers) - Edit.mp3
+Jul 31 18:32 : update: added /Sway.mp3
+Jul 31 18:32 : update: added /Missing Piece.mp3
+Jul 31 18:32 : update: added /Runaway.mp3
+Jul 31 18:32 : update: added /Demons.mp3
+Jul 31 18:32 : update: added /Rasputin.mp3
+Jul 31 18:32 : update: added /The Less I Know The Better.mp3
+Jul 31 18:32 : update: added /残響散歌.mp3
+Jul 31 18:32 : update: added /7 Years.mp3
+Jul 31 18:32 : update: added /where do i go?.mp3
+Jul 31 18:32 : update: added /Paper Rings.mp3
+Jul 31 18:32 : update: added /Fukashigi no Carte.mp3
+Jul 31 18:32 : update: added /Kid.mp3
+Jul 31 18:32 : update: updating /Under The Influence.mp3
+Jul 31 18:32 : update: added /Locked Away (feat. Adam Levine).mp3
+Jul 31 18:32 : update: added /Espresso.mp3
+Jul 31 18:32 : update: added /happier.mp3
+Jul 31 18:32 : update: added /命に嫌われている。.mp3
+Jul 31 18:32 : update: added /夜に駆ける.mp3
+Jul 31 18:32 : update: added /Chandelier.mp3
+Jul 31 18:32 : update: added /The Good Part.mp3
+Jul 31 18:32 : update: added /Atlantis.mp3
+Jul 31 18:32 : update: added /unravel.mp3
+Jul 31 18:32 : update: added /Dark seeks light.mp3
+Jul 31 18:32 : update: added /Love Story (Taylor’s Version).mp3
+Jul 31 18:32 : update: added /On My Way.mp3
+Jul 31 18:32 : update: added /Comedy.mp3
+Jul 31 18:32 : update: added /Cupid - Twin Ver..mp3
+Jul 31 18:32 : update: added /Pretender.mp3
+Jul 31 18:32 : update: updating /Wait a Minute!.mp3
+Jul 31 18:32 : update: added /Escapism..mp3
+Jul 31 18:32 : update: added /色香水.mp3
+Jul 31 18:32 : update: updating /Summertime Sadness.mp3
+Jul 31 18:32 : update: added /The Nights.mp3
+Jul 31 18:32 : update: added /Sweater Weather.mp3
+Jul 31 18:32 : update: added /Tattoo.mp3
+Jul 31 18:32 : update: added /Careless Whisper.mp3
+Jul 31 18:32 : update: updating /Somewhere Only We Know.mp3
+Jul 31 18:32 : update: added /Bad Liar.mp3
+Jul 31 18:32 : update: added /Hurts So Good.mp3
+Jul 31 18:32 : update: updating /Mary On A Cross.mp3
+Jul 31 18:32 : update: added /Good Looking.mp3
+Jul 31 18:32 : update: added /Nothin' on You (feat. Bruno Mars).mp3
+Jul 31 18:32 : update: added /紅蓮華.mp3
+Jul 31 18:32 : update: added /Starboy.mp3
+Jul 31 18:32 : update: added /Boku no Sensou.mp3
+Jul 31 18:32 : update: added /足跡.mp3
+Jul 31 18:32 : update: added /Enough Is Enough.mp3
+Jul 31 18:32 : update: added /NO.mp3
+Jul 31 18:32 : update: added /Heart Attack.mp3
+Jul 31 18:32 : update: added /Summertime.mp3
+Jul 31 18:32 : update: added /House of the Rising Sun.mp3
+Jul 31 18:32 : update: added /Shinunoga E-Wa.mp3
+Jul 31 18:32 : update: added /The Search.mp3
+Jul 31 18:32 : update: added /Scars To Your Beautiful.mp3
+Jul 31 18:32 : update: added /CUTE DEPRESSED.mp3
+Jul 31 18:32 : update: added /Little Do You Know.mp3
+Jul 31 18:32 : update: added /Vibe.mp3
+Jul 31 18:32 : update: added /Honey, I'm Good.mp3
+Jul 31 18:32 : update: added /Stereo Hearts (feat. Adam Levine).mp3
+Jul 31 18:32 : update: added /favorite - english.mp3
+Jul 31 18:32 : update: added /あの夢をなぞって.mp3
+Jul 31 18:32 : update: added /Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack).mp3
+Jul 31 18:32 : update: added /Rockabye (feat. Sean Paul & Anne-Marie).mp3
+Jul 31 18:32 : update: added /love nwantiti (ah ah ah).mp3
+Jul 31 18:32 : update: added /Lonely.mp3
+Jul 31 18:32 : update: added /There's Nothing Holdin' Me Back.mp3
+Jul 31 18:32 : update: added /Cheri Cheri Lady.mp3
+Jul 31 18:32 : update: added /greedy.mp3
+Jul 31 18:32 : update: added /17.mp3
+Jul 31 18:32 : update: added /Never Be the Same.mp3
+Jul 31 18:32 : update: added /All The Things She Said.mp3
+Jul 31 18:32 : update: added /Love Me Again.mp3
+Jul 31 18:32 : update: added /たぶん.mp3
+Jul 31 18:32 : update: added /Falling.mp3
+Jul 31 18:32 : update: added /Somebody That I Used To Know.mp3
+Jul 31 18:32 : update: added /群青.mp3
+Jul 31 18:32 : update: added /Gone, Gone, Gone.mp3
+Jul 31 18:32 : update: added /Wellerman - Sea Shanty.mp3
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 115192.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jul 31 18:32 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 31 18:32 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jul 31 18:32 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Jul 31 18:32 : update: added /IDGAF.mp3
+Jul 31 18:32 : update: added /Akuma no Ko.mp3
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jul 31 18:32 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 31 18:32 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jul 31 18:32 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Jul 31 18:32 : update: added /Worth It (feat. Kid Ink).mp3
+Jul 31 18:32 : update: updating /Too Sweet.mp3
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+Jul 31 18:40 : player: played "Do I Wanna Know?.mp3"
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+Jul 31 19:06 : player: played "CUTE DEPRESSED.mp3"
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+Jul 31 22:29 : player: played "1, 2, 3 (feat. Jason Derulo & De La Ghetto).mp3"
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 154964.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jul 31 22:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 31 22:35 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jul 31 22:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Jul 31 22:35 : update: added /MY EYES.mp3
+Jul 31 22:35 : update: added /FE!N (feat. Playboi Carti).mp3
+Jul 31 22:35 : update: added /Big Dawgs.mp3
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 115192.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jul 31 22:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 31 22:35 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jul 31 22:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 213104.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jul 31 22:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 31 22:35 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jul 31 22:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1109.
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+Aug 01 15:13 : player: played "One Of The Girls (with JENNIE, Lily Rose Depp).mp3"
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+Aug 02 20:10 : player: played "love nwantiti (ah ah ah).mp3"
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+Aug 02 20:18 : player: played "The Less I Know The Better.mp3"
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+Aug 02 20:19 : player: played "CUTE DEPRESSED.mp3"
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+Aug 02 21:08 : player: played "Lost Soul.mp3"
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+Aug 02 21:29 : player: played "No Roots.mp3"
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+Aug 02 23:32 : exception: Bad playlist name
+Aug 02 23:32 : exception: Bad playlist name
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+*** pw_stream_update_properties called from wrong context, check thread and locking: Operation not permitted
+*** impl_ext_end_proxy called from wrong context, check thread and locking: Operation not permitted
+Aug 02 23:41 : player: played "Courtesy Call.mp3"
