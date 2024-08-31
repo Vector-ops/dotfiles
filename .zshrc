@@ -118,9 +118,13 @@ alias unfuck="sudo apt-get purge"
 alias deb="sudo dpkg -i"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias cd=z
-alias cat=batcat
+alias bat=batcat
 alias hacktab="ssh 192.168.0.104 -p 8022"
 alias fzb="fzf --preview='batcat --color=always {}'"
+alias goinit=~/dev/scripts/goinit.sh
+
+
+
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
@@ -148,3 +152,6 @@ eval $(python3 $HOME/scripts/clean-path.py)
 
 export PATH=$PATH:/home/vector/.spicetify
 fpath+=${ZDOTDIR:-~}/.zsh_functions
+
+autoload -U +X bashcompinit && bashcompinit
+complete -o nospace -C /usr/bin/terraform terraform
