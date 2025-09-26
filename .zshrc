@@ -21,6 +21,9 @@ export PATH=$PATH:$HOME/go/bin
 # neovim
 export PATH="$PATH:/opt/nvim-linux64/bin"
 
+# java
+export JAVA_HOME="/usr/lib/jvm/java-21-openjdk"
+
 
 
 # exports end
@@ -37,7 +40,7 @@ alias cd=z
 alias zource="source ~/.zshrc"
 alias bat=batcat
 alias zshrc="nvim ~/.zshrc"
-alias task=go-task
+#alias task=go-task
 alias lg=lazygit
 alias gencv=~/scripts/cv.sh
 alias genlcdir=~/scripts/genlcfolder.sh
